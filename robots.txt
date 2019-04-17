@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://weebaeshoo.joway.io/sitemap.xml
